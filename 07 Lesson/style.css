@@ -1,0 +1,18 @@
+div{
+    width: 500px;
+    height: auto;
+    background-color: cadetblue;
+}
+span{
+    width: 500px;
+    height:auto;
+    background-color: red;
+}
+ul>li{
+    display: inline-block;
+    width:150px;
+    height:auto;
+    background-color: burlywood;
+    color:white;
+    padding: 15px;
+}

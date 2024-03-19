@@ -1,0 +1,16 @@
+.main-heading{
+    color: darkcyan;
+}
+.sub-heading{
+    color:cadetblue;
+}
+.article-box{
+    background-color:orange;
+}
+.article-heading{
+    color:red;
+    font-style: italic;
+}
+#container{
+    width: 500px;
+}

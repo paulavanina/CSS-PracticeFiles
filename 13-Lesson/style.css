@@ -1,0 +1,16 @@
+.container{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+.row{
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.col{
+    background-color: white;
+    padding:15px;
+    color: black;
+    margin: 5px;
+}

@@ -1,0 +1,22 @@
+.container{
+    width: 1000px;
+    height: auto;
+    background-color: beige;
+}
+.header{
+    width: 1000px;
+    height: auto;
+    background-color: cadetblue;
+}
+.content{
+    width: 750px;
+    height: 250px;
+    float: left;
+    background-color: grey;
+}
+.sidebar{
+    width: 250px;
+    height: 250px;
+    float: right;
+    background-color: lavender;
+}
