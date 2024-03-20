@@ -6,10 +6,8 @@ The CSS Practice Files repository contains 14 folders, each dedicated to various
 
 In addition to the practice files, this repository features a project titled "Responsive Website Design."
 
-### Key Features:
 
-- **HTML5 Standard:** The document follows the HTML5 standard, ensuring compatibility with modern web browsers.
-- **Google Fonts Integration:** Custom fonts from the Google Fonts API are incorporated, adding a unique typographic style to the webpage.
-- **Responsive Image Slider:** Implemented with the LightSlider plugin, the website features a responsive image slider that enhances user engagement across different devices.
+
+The “Responsive Website Design” project showcases proficiency in creating a modern and visually appealing website using HTML, CSS, jQuery, and Google Fonts. It adheres to the HTML5 standard, ensuring compatibility with modern web browsers. Additionally, it incorporates custom fonts from the Google Fonts API, adding a unique typographic style to the webpage. The project also features a responsive image slider, implemented with the LightSlider plugin, which further enhances user engagement across different devices. Featuring a clean layout, intuitive navigation, and elegant styling, the website serves as a practical demonstration of fundamental web development skills.
 
 
