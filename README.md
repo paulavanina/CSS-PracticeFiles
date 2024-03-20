@@ -1,5 +1,15 @@
-# CSS-PracticeFiles
-The "CSS Practice Files" repository contains a collection of 14 folders, each housing various small programs aimed at aiding in the learning of CSS. These programs cover a range of concepts and techniques, serving as valuable resources for honing CSS skills. Additionally, the repository includes a project titled "Responsive Website Design".
+# CSS Practice Files
 
-#Reponsive Website Design
-The “Responsive Website Design” project showcases proficiency in creating a modern and visually appealing website using HTML, CSS, jQuery, and Google Fonts. Additionally, it incorporates a responsive image slider, further enhancing the user experience across different devices. Featuring a clean layout, intuitive navigation, and elegant styling, the website serves as a practical demonstration of fundamental web development skills.
+The CSS Practice Files repository contains 14 folders, each dedicated to various small programs aimed at aiding in the learning of CSS.
+
+## Responsive Website Design
+
+In addition to the practice files, this repository features a project titled "Responsive Website Design."
+
+### Key Features:
+
+- **HTML5 Standard:** The document follows the HTML5 standard, ensuring compatibility with modern web browsers.
+- **Google Fonts Integration:** Custom fonts from the Google Fonts API are incorporated, adding a unique typographic style to the webpage.
+- **Responsive Image Slider:** Implemented with the LightSlider plugin, the website features a responsive image slider that enhances user engagement across different devices.
+
+
